@@ -7,8 +7,8 @@
 - 🏢 I'm currently working at **Maltem Consulting Group**
 - 💻 My tech stack is `.js`, `.jsx`, `.ts`, `.tsx` `.html`, `.css`
 - 🌱 Learning all about the wonders of web development and cloud!
-- 📰 I write poorly at [https://upieez.github.io/blog/](https://upieez.github.io/blog/)
-- 🦜 [twitter.com/samuelhww](https://twitter.com/samuelhww)
+- 📰 I write poorly on my [blog](https://upieez.github.io/blog/)
+- 🤵 The only active [social media](https://www.linkedin.com/in/samuelhuangww/) I have
 - ⚡️ Fun fact: I'm have an undying love for my cat
 
 <!--
