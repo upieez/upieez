@@ -11,6 +11,8 @@
 - 🤵 The only active [social media](https://www.linkedin.com/in/samuelhuangww/) I have
 - ⚡️ Fun fact: I'm have an undying love for my cat
 
+[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=upieez)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **upieez/upieez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
