@@ -1,4 +1,4 @@
-## Hi there! Welcome to my GitHub profle! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50" height="40" />
+## <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50" height="40" />
 
 [![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=upieez)](https://github.com/anuraghazra/github-readme-stats)
 
